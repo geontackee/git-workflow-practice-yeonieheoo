@@ -5,4 +5,4 @@ I found this article interesting as it well summarizes 7 inspiring tech startups
 Among the 7 companies, I found Grifin the most interesting. Grifin is one of the three fin-tech companies listed. It is an investment app that automatically let users invest into a business they spent money on. For example, “if a user spends $3.95 at a Starbucks, a dollar of their money will go into Starbucks stock, meaning they spend $4.95 in total.” I was personally amazed by such approach as this definitely makes ‘investment’ more approachable and do-able.
 
 ### Comment
-**Geon Tack** Grifin is an interesting app! It seems to be good way to invest for beginners.
+**Geon Tack**: Grifin is an interesting app! It seems to be good way to invest for beginners.
