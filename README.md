@@ -1,7 +1,4 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
-
-# [Seven Tech Startups To Watch Out For In 2022](https://tech.co/news/top-tech-companies-2022)
+### [Seven Tech Startups To Watch Out For In 2022](https://tech.co/news/top-tech-companies-2022)
 
 I found this article interesting as it well summarizes 7 inspiring tech startups in 2022. With an universal aim to "make the world a more streamlined, affordable, and equal place,” the companies listed each suggests their innovative ideas. 
 
